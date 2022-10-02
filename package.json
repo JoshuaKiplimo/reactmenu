@@ -13,9 +13,9 @@
   },
   "homepage": "https://JoshuaKiplimo.github.io/reactmenu",
   "scripts": {
-    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
     "build": "CI= react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
